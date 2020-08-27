@@ -1,2 +1,4 @@
 node_modules;
 Marwa.html;
+
+config/keys.js;
